@@ -1,0 +1,13 @@
+{
+    "auth": {
+        "registry.hub.docker.com": {
+            "username": "manlongdan",
+            "password": "DOCKERHUB_PASSWORD"
+        }
+    },
+    "images": {
+        "docker.io/nolanhzy/pro": "manlongdan/pro",
+        "docker.io/hsuyelin/nas-tools": "manlongdan/nas-tools-pro"
+        
+    }
+}
