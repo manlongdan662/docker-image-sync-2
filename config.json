@@ -6,8 +6,9 @@
         }
     },
     "images": {
-        "docker.io/nolanhzy/pro": "manlongdan/pro",
-        "docker.io/hsuyelin/nas-tools": "manlongdan/nas-tools-pro"
+        "docker.io/nolanhzy/pro:latest": "manlongdan/pro:latest",
+        "docker.io/hsuyelin/nas-tools:debian": "manlongdan/nas-tools:debian",
+        "docker.io/linuxserver/qbittorrent:14.3.9": "manlongdan/qbittorrent:14.3.9"
 
         
     }
